@@ -1,1 +1,1 @@
-Projects created during Foundations of computer science course.
+Exercises created during Foundations of Computer Science course.
