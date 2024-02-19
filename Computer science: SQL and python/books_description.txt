@@ -1,5 +1,5 @@
 I imported a table from a CSV file into MySQL Workbench and then created a table containing the imported data. 
 Subsequently, I split the table into two in order to enable myself to execute various queries and showcase the skills I acquired during the classes. 
 I assigned primary keys to the appropriate columns, deleted columns that I did not use and renamed a few of them. 
-Then, I proceeded to solve tasks.
+Then I proceeded to solve tasks.
 Link to the dataset: https://www.kaggle.com/datasets/abdallahwagih/books-dataset?select=data.csv
